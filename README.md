@@ -1,6 +1,5 @@
 # Ion Auth 4
 ### The future of authentication
-by [Ben Edmunds](http://benedmunds.com)
 
 Simple and lightweight authentication for your CodeIgniter apps.
 
@@ -32,23 +31,9 @@ Password: password
 ### Important
 It is highly recommended that you use encrypted database sessions for security!
 
-
-
-## Support
-If you think you've found a bug please [Create an Issue](https://github.com/benedmunds/CodeIgniter-Ion-Auth/issues).
-
-If you need a customization or help implementing Ion Auth into your project please [Email Me for Consulting Information](mailto:ionauth_consulting@benedmunds.com).
-
-If your company would like a support contract or service agreement please [Reach Out](mailto:ionauth_support_contract@benedmunds.com) to discuss available options.
-
-
 ## For Help
 If you're having an issue with CodeIgniter or for general help with development I recommend checking out the [CodeIgniter Forums](http://forum.codeigniter.com).
 
-If you think you've found a bug please [Create an Issue](https://github.com/benedmunds/CodeIgniter-Ion-Auth/issues).
 
 
-Thanks,    
--Ben Edmunds       
- [benedmunds.com](http://benedmunds.com)  
- [@benedmunds](http://twitter.com/benedmunds)   
+
